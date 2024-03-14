@@ -1,3 +1,3 @@
-# task_1_for_pyshop
+# task1_for_pyshop
 
-A new task Dart project
+Dart and Flutter project
